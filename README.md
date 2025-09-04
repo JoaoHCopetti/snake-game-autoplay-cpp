@@ -3,4 +3,4 @@ A simple snake game that plays by itself using only C++ standard libraries
 
 There's no user input implementation because there's no reliable way to detect a key press cross-platform (see: https://coderslegacy.com/c/detect-key-presses-cpp/)
 
-<img width="817" height="578" alt="image" src="https://github.com/user-attachments/assets/bbfce2cc-6567-4bd7-9485-f6b232e1e822" />
+<img width="813" height="575" alt="image" src="https://github.com/user-attachments/assets/5a2017bd-36cf-4377-89c6-be9d5bf29676" />
